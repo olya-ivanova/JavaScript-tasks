@@ -20,6 +20,6 @@ while(true) {
         break;
     }
     
-    position = index + 1;
     alert(index);
+    position = index + 1;
 }
